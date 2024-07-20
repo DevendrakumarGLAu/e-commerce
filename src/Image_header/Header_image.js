@@ -3,10 +3,10 @@ import './Hedaer_image.css'
 import image from './image/notebook.jpg'
 function Header_image() {
   return (
-    <div class="container">
+    <div className="container1">
   <img src={image} alt="Notebook" style={{width: '100%'}}/>
-  <div class="content">
-  <div class="bg-text">TEXT</div>
+  <div className="content1">
+  <div className="bg-text">TEXT</div>
   </div>
 </div>
   )

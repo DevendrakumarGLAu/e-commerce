@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "imageUrl": "/common/carousel/carousel_image/image1.jpg",
+      "title": "First slide label",
+      "description": "Some representative placeholder content for the first slide."
+    },
+    {
+      "id": 2,
+      "imageUrl": "/common/carousel/carousel_image/image2.jpg",
+      "title": "Second slide label",
+      "description": "Some representative placeholder content for the second slide."
+    },
+    {
+      "id": 3,
+      "imageUrl": "/common/carousel/carousel_image/image3.jpg",
+      "title": "Third slide label",
+      "description": "Some representative placeholder content for the third slide."
+    }
+  ]
+  
