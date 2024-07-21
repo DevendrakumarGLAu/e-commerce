@@ -1,19 +1,19 @@
 [
   {
       "id": 1,
-      "imageUrl": "carousel_image/image1.jpg",
+      "imageUrl": "./carousel_image/image1.jpg",
       "title": "First slide label",
       "description": "Some representative placeholder content for the first slide."
   },
   {
       "id": 2,
-      "imageUrl": "/carousel_image/image2.jpg",
+      "imageUrl": "./carousel_image/image2.jpg",
       "title": "Second slide label",
       "description": "Some representative placeholder content for the second slide."
   },
   {
       "id": 3,
-      "imageUrl": "/carousel_image/image3.jpg",
+      "imageUrl": "./carousel_image/images3.jpg",
       "title": "Third slide label",
       "description": "Some representative placeholder content for the third slide."
   }
